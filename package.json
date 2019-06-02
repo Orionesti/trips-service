@@ -14,8 +14,8 @@
     "redux-logger": "^3.0.6"
   },
   "scripts": {
-    "start": "concurrently --kill-others \"npm run client\" \"npm run server\"",
-    "client": "react-scripts start",
+    "install:dev": "npm i && cd ./server && npm i",
+    "start": "npm run install:dev && concurrently --kill-others \"npm run client\" \"npm run server\"",
     "server": "node ./server",
     "build": "react-scripts build",
     "test": "react-scripts test",
