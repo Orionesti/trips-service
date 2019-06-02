@@ -1,0 +1,90 @@
+[
+  {
+    "fromName": "Berlin, Germany",
+    "toName": "Kyiv, Ukraine",
+    "departAt": "2019-05-29  07:00",
+    "arrivalAt": "2019-05-29  10:40",
+    "vehicle": "plane",
+    "id": 1
+  },
+  {
+    "fromName": "Berlin, Germany",
+    "toName": "Dnipro, Ukraine",
+    "departAt": "2019-06-02 12:00",
+    "arrivalAt": "2019-06-04 15:20",
+    "vehicle": "car",
+    "id": 2
+  },
+  {
+    "fromName": "London, UK",
+    "toName": "Kyiv, Ukraine",
+    "departAt": "2019-06-07 08:00",
+    "arrivalAt": "2019-06-07 16:00",
+    "vehicle": "plane",
+    "id": 3
+  },
+  {
+    "fromName": "Lyon, France",
+    "toName": "Kyiv, Ukraine",
+    "departAt": "2019-06-07 14:20",
+    "arrivalAt": "2019-06-07 19:30",
+    "vehicle": "plane",
+    "id": 11
+  },
+  {
+    "fromName": "Moscow, Russia",
+    "toName": "Kyiv, Ukraine",
+    "departAt": "2019-06-08 15:00",
+    "arrivalAt": "2019-06-09 22:00",
+    "vehicle": "car",
+    "id": 4
+  },
+  {
+    "fromName": "Kyiv, Ukraine",
+    "toName": "Berlin, Germany",
+    "departAt": "2019-06-01 01:00",
+    "arrivalAt": "2019-06-02 20:00",
+    "vehicle": "train",
+    "id": 5
+  },
+  {
+    "fromName": "Dnipropetrovsk, Ukraine",
+    "toName": "Moskow, Russia",
+    "departAt": "2019-05-28 10:00",
+    "arrivalAt": "2019-05-30 15:00",
+    "vehicle": "train",
+    "id": 10
+  },
+  {
+    "fromName": "Minsk, Belarus",
+    "toName": "Kyiv, Ukraine",
+    "departAt": "2019-06-03 17:00",
+    "arrivalAt": "2019-06-03 22:30",
+    "vehicle": "car",
+    "id": 6
+  },
+  {
+    "fromName": "Barcelona, Spain",
+    "toName": "Odesa, Ukraine",
+    "departAt": "2019-06-01 08:00",
+    "arrivalAt": "2019-06-01 13:20",
+    "vehicle": "plane",
+    "id": 7
+  },
+  {
+    "fromName": "Kyiv, Ukraine",
+    "toName": "Warsaw, Poland",
+    "departAt": "2019-05-29 19:40",
+    "arrivalAt": "2019-05-29 21:00",
+    "vehicle": "plane",
+    "id": 8
+  },
+  {
+    "fromName": "Krakow, Poland",
+    "toName": "Lviv, Ukraine",
+    "departAt": "2019-06-03 09:00",
+    "arrivalAt": "2019-06-03 15:00",
+    "vehicle": "train",
+    "id": 9
+  }
+]

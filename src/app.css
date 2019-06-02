@@ -1,0 +1,19 @@
+.main {
+  margin: 20px auto;
+  width: 800px;
+}
+
+.total-count {
+  margin: 0 auto;
+  color: green;
+  width: 50%;
+  text-align: center;
+  background-color: #E3FFD8;
+}
+
+.not-found-message {
+  background-color: #e5f1ff;
+  color: #1764b7;
+  text-align: center;
+  margin: 5px auto;
+}
