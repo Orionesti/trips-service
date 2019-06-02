@@ -3,13 +3,7 @@
 ## Installation
 
 ```bash
-npm install
-```
-
-or 
-
-```bash
-yarn install
+npm run install:dev
 ```
 
 ## Starting
